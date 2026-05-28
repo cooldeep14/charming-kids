@@ -55,6 +55,14 @@ body {
   font-weight: 700;
 }
 
+.logo span {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1.45rem;
+  font-weight: 700;
+  letter-spacing: 0.3px;
+  line-height: 1;
+}
+
 .logo img {
   width: 50px;
   height: 50px;
@@ -409,5 +417,9 @@ p {
 
   .btn-secondary {
     margin-left: 0;
+  }
+
+  .logo span {
+    font-size: 1.1rem;
   }
 }
